@@ -34,7 +34,6 @@ You can use the following resources to inform your response:
 - [How AI Works](https://www.youtube.com/watch?v=Ok-xpKjKp2g)
 - [Why AI Matters](https://www.youtube.com/watch?v=dWRnCXbUDgA)
 - [Ethics & AI: Equal Access and Algorithmic Bias](https://www.youtube.com/watch?v=tJQSyzBUAew)
-- [Ethics & AI: Privacy & the Future of Work](https://www.youtube.com/watch?v=zNxw5gJtHLc)
 
 ----
 
